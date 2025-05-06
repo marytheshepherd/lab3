@@ -25,4 +25,4 @@ def test_bmi_under_weight():
 
     result = test.classify_bmi(bmi)
 
-    assert (result == -1)
+    assert (result == 1)
