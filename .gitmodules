@@ -1,0 +1,3 @@
+[submodule "bmi"]
+	path = bmi
+	url = https://github.com/marytheshepherd/lab2.git
